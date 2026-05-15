@@ -1,34 +1,3 @@
 {
-  "habits": [
-    {
-      "id": "leer",
-      "name": "Leer",
-      "requiresEnd": true
-    },
-    {
-      "id": "escribir",
-      "name": "Escribir",
-      "requiresEnd": true
-    },
-    {
-      "id": "meditar",
-      "name": "Meditar",
-      "requiresEnd": true
-    },
-    {
-      "id": "caminar",
-      "name": "Caminar",
-      "requiresEnd": true
-    },
-    {
-      "id": "agua",
-      "name": "Beber agua",
-      "requiresEnd": false
-    },
-    {
-      "id": "entrenar",
-      "name": "Entrenar",
-      "requiresEnd": true
-    }
-  ]
+  "habits": []
 }
