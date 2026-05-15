@@ -24,6 +24,11 @@
       "id": "agua",
       "name": "Beber agua",
       "requiresEnd": false
+    },
+    {
+      "id": "entrenar",
+      "name": "Entrenar",
+      "requiresEnd": true
     }
   ]
 }
