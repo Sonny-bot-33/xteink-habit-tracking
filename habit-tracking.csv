@@ -2,3 +2,7 @@ timestamp,habit_id,habit_name,action,session_id,requires_end,source
 2026-05-15T21:38:52Z,agua,Beber agua,start,agua_2026-05-15T21:38:52Z,0,device
 2026-05-15T21:39:30Z,leer,Leer,start,leer_2026-05-15T21:39:30Z,1,device
 2026-05-15T21:39:51Z,leer,Leer,end,leer_2026-05-15T21:39:30Z,1,device
+2026-05-15T21:43:39Z,escribir,Escribir,start,escribir_2026-05-15T21:43:39Z,1,device
+2026-05-15T21:44:08Z,escribir,Escribir,end,escribir_2026-05-15T21:43:39Z,1,device
+2026-05-15T21:47:31Z,escribir,Escribir,start,escribir_2026-05-15T21:47:31Z,1,device
+2026-05-15T21:48:55Z,escribir,Escribir,start,escribir_2026-05-15T21:48:55Z,1,device
