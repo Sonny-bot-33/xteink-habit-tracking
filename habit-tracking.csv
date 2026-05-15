@@ -1,1 +1,4 @@
 timestamp,habit_id,habit_name,action,session_id,requires_end,source
+2026-05-15T21:38:52Z,agua,Beber agua,start,agua_2026-05-15T21:38:52Z,0,device
+2026-05-15T21:39:30Z,leer,Leer,start,leer_2026-05-15T21:39:30Z,1,device
+2026-05-15T21:39:51Z,leer,Leer,end,leer_2026-05-15T21:39:30Z,1,device
