@@ -1,3 +1,9 @@
 {
-  "habits": []
+  "habits": [
+    {
+      "id": "tomar_agua",
+      "name": "Tomar agua",
+      "requiresEnd": false
+    }
+  ]
 }
